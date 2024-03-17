@@ -8,3 +8,6 @@ I have made the header responsive using media queries.
 HTML
 CSS
 Javascript
+
+# Deployed on Netlify
+link: https://weinsureyou.netlify.app/
